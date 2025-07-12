@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1>Olá, mundo 👋</h1>
 
-<!--
-**voidlyp/voidlyp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+const phlipedev = {
+  nome: "Phelype Wellyngton",
+  idade: "21",
+  area: "Desenvolvimento em Web/DiscordBot"
+}
+```
 
-Here are some ideas to get you started:
+## 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```js
+const habilidades = {
+  tecnologias: ["HTML", "CSS"],
+  linguagens: ["Typescript", "JavaScript", "Python"],
+  software: ["Visual Studio Code"]
+}
+```
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=voidlyp&theme=tokyonight" alt="voidlyp's Github Stats">
+</div>
